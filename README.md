@@ -1,7 +1,7 @@
 # Simple Bootstrap 5 Blog
 
 ## website link
-- 
+- https://suryateja000.github.io/task8-6-6-/
 
 ## Overview
 
